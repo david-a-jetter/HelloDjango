@@ -1,0 +1,1 @@
+First attempts at playing with Python web framework Django.
